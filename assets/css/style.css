@@ -45,9 +45,9 @@ header a {
     text-decoration: none;
 }
 
-header nav {
-    margin: 7px 0;
-    display: flex;
+header a {
+    color: var(--primary-color);
+    text-decoration: none;
 }
 
 header nav ul {
